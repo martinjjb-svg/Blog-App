@@ -1,0 +1,3 @@
+flask
+flask_wtf
+gunicorn==20.0.4
